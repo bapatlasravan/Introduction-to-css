@@ -1,4 +1,4 @@
 # Introduction-to-css
-#inline
-#internal
-#external
+# inline
+# internal
+# external
